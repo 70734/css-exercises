@@ -1,0 +1,19 @@
+.pinkclass {
+    background-color:rgb(249, 129, 185);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#numtwo {
+    color:rgb(17, 87, 148);
+    font-size:36px;
+}
+
+#numfour {
+    background-color:rgb(27, 173, 21);
+    font-size:24px;
+    font-weight:bold;
+}
+
+.bigclass {
+    font-size: 24px;
+}
